@@ -3,7 +3,7 @@ Updating of the Horiseon html and css code to improve accessibility via incorpor
 
 Main activities:
 
-1. Replaced '<div>' sections with appropriate semantic HTML attributes and elements. 
+1. Replaced 'div' sections with appropriate semantic HTML attributes and elements. 
 2. Established titles for all elements where appropriate to improve accessibility
 3. Added alt attributes to core images to improve accessibility
 4. Reduced duplication of styling code through improved labelling and use of semantic structures in HTML
